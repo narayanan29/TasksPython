@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba6967d1-678e-4712-b4dd-61f0bab6c432" name="Changes" comment="task6">
-      <change afterPath="$PROJECT_DIR$/task7.py" afterDir="false" />
+    <list default="true" id="ba6967d1-678e-4712-b4dd-61f0bab6c432" name="Changes" comment="task7">
+      <change afterPath="$PROJECT_DIR$/task8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,12 +29,12 @@
     &quot;assignee&quot;: &quot;narayanan29&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/narayanan29/TasksPython.git",
-    "accountId": "b2dcd699-3276-4da2-83de-e5a16bc51ced"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/narayanan29/TasksPython.git&quot;,
+    &quot;accountId&quot;: &quot;b2dcd699-3276-4da2-83de-e5a16bc51ced&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -51,6 +51,7 @@
     "Python.task5.executor": "Run",
     "Python.task6.executor": "Run",
     "Python.task7.executor": "Run",
+    "Python.task8.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -105,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759258637061</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="task7">
+      <option name="closed" value="true" />
+      <created>1759261900139</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1759261900139</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +132,7 @@
     <MESSAGE value="task2" />
     <MESSAGE value="task5" />
     <MESSAGE value="task6" />
-    <option name="LAST_COMMIT_MESSAGE" value="task6" />
+    <MESSAGE value="task7" />
+    <option name="LAST_COMMIT_MESSAGE" value="task7" />
   </component>
 </project>
