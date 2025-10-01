@@ -10,7 +10,7 @@ class User:
         user.followers += 1
 
 user1=User('narayanan',20)
-user2=User('priya',15)
+user2=User('ramesh',19)
 
 user1.follow(user2)
 print(f"My followers: {user1.followers}")
